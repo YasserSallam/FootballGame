@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\bin\Debug\FootBallGameConsoleApp.exe.config
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\bin\Debug\FootBallGameConsoleApp.exe
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\bin\Debug\FootBallGameConsoleApp.pdb
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\obj\Debug\FootBallGameConsoleApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\obj\Debug\FootBallGameConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\obj\Debug\FootBallGameConsoleApp.exe
+C:\Users\User\source\repos\FootBallGameConsoleApp\FootBallGameConsoleApp\obj\Debug\FootBallGameConsoleApp.pdb
