@@ -10,11 +10,10 @@ namespace DelegateDay
     class Refree
     {
         public string Name { get; set; }
-
         public override string ToString()
         => $"referee {Name}";
 
-        public void look() {
+        public void look(Location rl) {
             Console.WriteLine("refree is looking");
         }
     }
